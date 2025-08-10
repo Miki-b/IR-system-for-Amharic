@@ -104,11 +104,5 @@ This work has paved the way for future advancements in the field and demonstrate
 
 ---
 
-### **Future Work**
 
-- **Improved Stemmer**: Develop a more efficient stemmer to handle large volumes of Amharic text.
-- **Standard Stop-Word List**: Create a comprehensive and standardized list of stop words for the Amharic language.
-- **Larger Corpus**: Gather a more extensive corpus of Amharic texts to improve the accuracy and robustness of the system.
-
----
 
